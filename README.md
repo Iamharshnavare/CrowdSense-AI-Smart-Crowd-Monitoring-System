@@ -1,6 +1,6 @@
-VIREO – AI-Driven Intelligent Crowd Monitoring
+CrowdSense AI – Smart Crowd Monitoring System
 
-VIREO is a standalone PyQt5 desktop application that leverages YOLOv8 deep learning for real-time crowd monitoring. Designed for speed, reliability, and accessibility, it transforms traditional reactive CCTV surveillance into predictive crowd safety.
+CrowdSenseAI  is a standalone PyQt5 desktop application that leverages YOLOv8 deep learning for real-time crowd monitoring. Designed for speed, reliability, and accessibility, it transforms traditional reactive CCTV surveillance into predictive crowd safety.
 
 Key Features
 	•	Real-time detection and counting of people from live feeds, videos, or images using YOLOv8
