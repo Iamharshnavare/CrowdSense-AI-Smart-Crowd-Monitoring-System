@@ -27,4 +27,3 @@ Impact
 	•	Economic: Reduces reliance on manual monitoring and lowers security overhead costs
 	•	Scalable Vision: Future-ready for Smart Cities, transportation hubs, malls, and mass gatherings
 
-Built by Team VIREO with the motto: Code, Create, Conquer.
